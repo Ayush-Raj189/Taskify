@@ -1,7 +1,7 @@
 <h1 align="center">✅ Taskify</h1>
 
 <p align="center">
-  <img src="./src/assets/todo.jpeg" alt="Taskify Banner" width="600"/>
+  <img src="/src/assets/todo.jpeg" alt="Taskify Banner" width="600"/>
 </p>
 
 <p align="center">
@@ -54,14 +54,14 @@ todo-app/
 ## 🧪 How to Use
 
 1. Clone the repository   
-   git clone https://github.com/Ayush-Raj189/taskify.git
+         git clone https://github.com/Ayush-Raj189/taskify.git
 
 2.Navigate to the project folder
-   cd todo-app
+         cd todo-app
    
 3.Install dependencies
-  npm install
+        npm install
 
 4.Start the development server
-npm run dev
+         npm run dev
 
