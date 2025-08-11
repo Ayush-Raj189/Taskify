@@ -3,6 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import Navbar from './components/Navbar';
 
 function App() {
+ console.log("hlo");
  const [todo, setTodo] = useState("");
   const [todos, setTodos] = useState(() => {
     // Initialize state directly from localStorage
